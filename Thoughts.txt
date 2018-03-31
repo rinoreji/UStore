@@ -1,0 +1,2 @@
+DB = http://www.litedb.org/
+Log - https://github.com/NLog/NLog/wiki/Tutorial
